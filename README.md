@@ -62,7 +62,3 @@ Authentication is handled by NextAuth Credentials Provider, authenticating again
 
 ### 📌 Notes:
 - Replace `your-username`, `your-api-url.com`, and `Your Name` with your actual details.
-- If you have a preview image, place it in `public/preview.png` so the preview section works.
-- Tinggal push ke GitHub dan langsung kelihatan cantik di repo kamu 🚀
-
-Kalau mau sekalian versi badge CI/CD, Vercel status, atau license section tinggal bilang aja — bisa aku bikinkan juga!
