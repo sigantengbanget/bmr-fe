@@ -60,5 +60,3 @@ yarn dev
 🔐 Authentication Flow
 Authentication is handled by NextAuth Credentials Provider, authenticating against the backend API. A JWT token is retrieved and stored in the NextAuth session for secure API requests.
 
-### 📌 Notes:
-- Replace `your-username`, `your-api-url.com`, and `Your Name` with your actual details.
